@@ -1,0 +1,571 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/APPs
+Eacc
+Z0 w1760006778
+Z1 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 281
+Z4 dC:/Users/SaifEddine/OneDrive/Desktop/infotronique/project-processeur
+Z5 8C:/Users/SaifEddine/OneDrive/Desktop/infotronique/project-processeur/the_code.vhd
+Z6 FC:/Users/SaifEddine/OneDrive/Desktop/infotronique/project-processeur/the_code.vhd
+l0
+L362 1
+V2G4TINgb>I6:4f:1B0;4V0
+!s100 HJjABa]WC`M27NIkD9E7R3
+Z7 OV;C;2020.1;71
+32
+Z8 !s110 1760007167
+!i10b 1
+Z9 !s108 1760007167.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/SaifEddine/OneDrive/Desktop/infotronique/project-processeur/the_code.vhd|
+Z11 !s107 C:/Users/SaifEddine/OneDrive/Desktop/infotronique/project-processeur/the_code.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Abehavioral
+R1
+R2
+R3
+DEx4 work 3 acc 0 22 2G4TINgb>I6:4f:1B0;4V0
+!i122 281
+l374
+L372 14
+V4Nb_3NWH[M6XH_;HNo7So2
+!s100 0eO;beQB=:01Pf=Y4N5N81
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Aacc1
+R2
+R3
+DEx4 work 3 acc 0 22 BMG7?d76:bdQBPM99h[SP2
+!i122 145
+l464
+L462 15
+VV_^EY=gh1O:>fFTJ54hOJ1
+!s100 ^n;l_e0dff0_3WeNT@m8g1
+R7
+32
+Z14 !s110 1759361956
+!i10b 1
+Z15 !s108 1759361955.000000
+R10
+R11
+!i113 1
+R12
+R13
+Z16 w1759185554
+Eacc_oe
+R0
+R2
+R3
+!i122 281
+R4
+R5
+R6
+l0
+L334 1
+VSmVWBi_VjjYDo`CeY_HEE0
+!s100 dj1NHfL2I>[B>Qjk=oC2`1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+DEx4 work 6 acc_oe 0 22 SmVWBi_VjjYDo`CeY_HEE0
+!i122 281
+l343
+L342 11
+VViNFDiT57<iU=:Zz7MNZ:1
+!s100 _EESK^glLmOLh_4Xm=HWL2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Adiode_oe
+R2
+R3
+DEx4 work 6 acc_oe 0 22 Sj7S2f9Pm`0:V^mOkn@IM0
+!i122 145
+l443
+L442 4
+Vb4PYHUQ2[I2@TVWPUX<i23
+!s100 fS@US<hJj_?45KAgzcifb1
+R7
+32
+R14
+!i10b 1
+R15
+R10
+R11
+!i113 1
+R12
+R13
+R16
+Eir
+R0
+R2
+R3
+!i122 281
+R4
+R5
+R6
+l0
+L393 1
+VLLgfdcddR;U>7f?VZZQlb2
+!s100 [YZ=Ik>:7_1PlMg03:HCK0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+DEx4 work 2 ir 0 22 LLgfdcddR;U>7f?VZZQlb2
+!i122 281
+l404
+L402 14
+Vg>HXhKGfW;NSOUlC`1AQU3
+!s100 bieQ@aPkY1B_cAB4:I9PF2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Air1
+R2
+R3
+DEx4 work 2 ir 0 22 _L_zl4AKlDG4ZO_3bnaC50
+!i122 145
+l494
+L492 14
+V>FMj>YajENR1IXMmIH3D72
+!s100 6;h:QRTN5l1@>7I@0I66C2
+R7
+32
+R14
+!i10b 1
+R15
+R10
+R11
+!i113 1
+R12
+R13
+R16
+Ememoire
+R0
+R1
+R2
+R3
+!i122 281
+R4
+R5
+R6
+l0
+L252 1
+V9L38feaT@g`zE@5`g@bSY0
+!s100 K74gFQ;6NNcd;=`==n0l=1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+DEx4 work 7 memoire 0 22 9L38feaT@g`zE@5`g@bSY0
+!i122 281
+l284
+L261 37
+V=8mU:>oeP2JoMV<o@n[`L0
+!s100 FX=iUPPW]S>>W=Xjk7o5m1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Emicroprocessor
+R0
+R2
+R3
+!i122 281
+R4
+R5
+R6
+l0
+L115 1
+VOHJL3A`G69TBNHjD]_j`K0
+!s100 6OQABQHdIS5;^QTMjkOfa0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+DEx4 work 14 microprocessor 0 22 OHJL3A`G69TBNHjD]_j`K0
+!i122 281
+l214
+L122 122
+VRH2[jK7?C7`DCV`04c<X61
+!s100 1cfehHLECz0PPRadXzjR92
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Emuxa
+R0
+R2
+R3
+!i122 281
+R4
+R5
+R6
+l0
+L460 1
+VF]ATaeY;5;EVz2n[=oM>M2
+!s100 [U<k<E99`n2K4QSCcBZP_3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+DEx4 work 4 muxa 0 22 F]ATaeY;5;EVz2n[=oM>M2
+!i122 281
+l470
+L469 6
+VgjL8G[RFXDk[XC5GKn2Jk1
+!s100 5Cak`:OgoN`BSZ==?ziUW2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Amuxa
+R2
+R3
+DEx4 work 4 muxa 0 22 S[AXcz^JFT=DoHLa^Mf;D3
+!i122 145
+l545
+L544 4
+VUaiY1XY4eeYFe[Pek4HR;1
+!s100 bAXj1d>nzeiTL6U[:0EXb1
+R7
+32
+R14
+!i10b 1
+R15
+R10
+R11
+!i113 1
+R12
+R13
+R16
+Emuxb
+R0
+R2
+R3
+!i122 281
+R4
+R5
+R6
+l0
+L482 1
+VzDk[hG8@WhCY8gP[40:g20
+!s100 hR8o^UNCFFZ:`B<Xc3dA;3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Amuxb
+R2
+R3
+DEx4 work 4 muxb 0 22 zDk[hG8@WhCY8gP[40:g20
+!i122 281
+l492
+L491 6
+V<flD:MW0WeKL02WG<=KEP2
+!s100 MBMPGQ1T=<Zm[6mn^kQk>1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Epc
+R0
+R2
+R3
+!i122 281
+R4
+R5
+R6
+l0
+L304 1
+V;S48anP@;RDAi=_LW[0Ig2
+!s100 Chg6CGzISC^8an21e[N@A1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Apc1
+R2
+R3
+DEx4 work 2 pc 0 22 ;S48anP@;RDAi=_LW[0Ig2
+!i122 281
+l315
+L313 14
+VM5727M0O0kb6NzYF]4WK;1
+!s100 Mj^Ol?A1jSEPz:2fLzZ>a3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Esequencer
+R0
+R2
+R3
+!i122 281
+R4
+R5
+R6
+l0
+L6 1
+VBCHm`2CN5HK:P91h[^2zz0
+!s100 _MJXMAVD>7SDZgf=]b81U1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Abehavioral
+R2
+R3
+Z17 DEx4 work 9 sequencer 0 22 BCHm`2CN5HK:P91h[^2zz0
+!i122 281
+l26
+L24 83
+Vab13o[In`=dXM=8:C==9d1
+!s100 5Zb@WkgZH>InXM6:h`fR02
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Etb_micro
+Z18 w1759739513
+R1
+R2
+R3
+!i122 222
+R4
+R5
+R6
+l0
+L7 1
+VzTzLLzJ;40mI0N>?lnj2L0
+!s100 VcfH1=U`M4NQ5jJb^ie@P0
+R7
+32
+Z19 !s110 1759740250
+!i10b 1
+Z20 !s108 1759740250.000000
+R10
+R11
+!i113 1
+R12
+R13
+Asim
+R1
+R2
+R3
+DEx4 work 8 tb_micro 0 22 zTzLLzJ;40mI0N>?lnj2L0
+!i122 222
+l65
+L10 279
+V^]gN[d_2Ph=Di[XY^IVVB1
+!s100 O6@`0nO@ff_4l:HIb1LjC1
+R7
+32
+R19
+!i10b 1
+R20
+R10
+R11
+!i113 1
+R12
+R13
+Eual
+R0
+R1
+R2
+R3
+!i122 281
+R4
+R5
+R6
+l0
+L425 1
+Vi;FR2Pgn6U`MhM`?36lO91
+!s100 ?PZ6P<CgX3j0C>2aPDl][1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R2
+R3
+DEx4 work 3 ual 0 22 i;FR2Pgn6U`MhM`?36lO91
+!i122 281
+l437
+L435 18
+VVID?GBmD@`3?VE09Y;E`_0
+!s100 M2f@]jaXeVoYBL`T7KA]V0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Acalcule
+R1
+R2
+R3
+DEx4 work 3 ual 0 22 h76oO<bg`T4ciUTTjdMkg0
+!i122 145
+l522
+L521 9
+VoC2I4IV^]cjUDBTSBg>AS1
+!s100 ;WG52>WcM:LgU`PC_Sb`E1
+R7
+32
+R14
+!i10b 1
+R15
+R10
+R11
+!i113 1
+R12
+R13
+R16

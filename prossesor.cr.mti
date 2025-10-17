@@ -1,0 +1,29 @@
+C:/Users/SaifEddine/OneDrive/Desktop/infotronique/project-processeur/the_code.vhd {2 {vcom -work work -2002 -explicit -stats=none C:/Users/SaifEddine/OneDrive/Desktop/infotronique/project-processeur/the_code.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity sequencer
+-- Compiling architecture Behavioral of sequencer
+** Warning: C:/Users/SaifEddine/OneDrive/Desktop/infotronique/project-processeur/the_code.vhd(100): (vcom-1144) Value 5 (of type std.STANDARD.INTEGER) is out of range 0 to 4.
+-- Compiling entity Microprocessor
+-- Compiling architecture Behavioral of Microprocessor
+-- Loading package NUMERIC_STD
+-- Compiling entity memoire
+-- Compiling architecture Behavioral of memoire
+-- Compiling entity PC
+-- Compiling architecture pc1 of PC
+-- Compiling entity acc_OE
+-- Compiling architecture Behavioral of acc_OE
+-- Compiling entity ACC
+-- Compiling architecture Behavioral of ACC
+-- Compiling entity IR
+-- Compiling architecture Behavioral of IR
+-- Compiling entity UAL
+-- Compiling architecture Behavioral of UAL
+-- Compiling entity MUXA
+-- Compiling architecture Behavioral of MUXA
+-- Compiling entity MUXB
+-- Compiling architecture muxB of MUXB
+
+} {} {}}

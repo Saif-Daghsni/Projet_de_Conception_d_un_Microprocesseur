@@ -1,0 +1,42 @@
+
+---------------------------------------------------------------start MUXA
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+ 
+entity MUXA is
+	Port (
+    	selA  	: in  STD_LOGIC;                	
+    	PC    	: in  STD_LOGIC_VECTOR(11 downto 0);
+    	ADRESSEOP : in  STD_LOGIC_VECTOR(11 downto 0);
+    	Aout  	: out STD_LOGIC_VECTOR(11 downto 0) 
+	);
+end MUXA;
+ 
+architecture muxA of MUXA is
+begin
+	Aout <= PC    	when selA = '0' else
+        	ADRESSEOP when selA = '1' else
+        	(others => '0');
+end muxA;
+---------------------------------------------------------------end MUXA
+
+
+---------------------------------------------------------------start MUXB
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+entity MUXB is
+	Port (
+    	selB : in  STD_LOGIC;
+    	E0   : in  STD_LOGIC_VECTOR(15 downto 0);     
+    	E1   : in  STD_LOGIC_VECTOR(11 downto 0);    
+    	Bout : out STD_LOGIC_VECTOR(15 downto 0)   	
+	);
+end MUXB;
+ 
+architecture muxB of MUXB is
+begin
+	Bout <= E0          	when selB = '0' else
+            "1111" & E1 	when selB = '1' else
+        	(others => '0');
+end muxB;
+---------------------------------------------------------------end MUXB

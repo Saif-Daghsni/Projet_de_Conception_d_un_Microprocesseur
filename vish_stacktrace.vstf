@@ -1,0 +1,112 @@
+# Current time Mon Sep 29 09:17:21 2025
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vish
+# Id = "2020.1"
+# Version = "2020.02"
+# Date = "Feb 28 2020"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 007652a8. Traceback:
+# 0    0x007652a8: 'WlfContextItem::`vector deleting destructor' + 0x6a008'
+# 1    0x00763d1f: 'WlfContextItem::`vector deleting destructor' + 0x68a7f'
+# 2    0x007632d5: 'WlfContextItem::`vector deleting destructor' + 0x68035'
+# 3    0x00768854: 'WlfContextItem::`vector deleting destructor' + 0x6d5b4'
+# 4    0x00769603: 'WlfContextItem::`vector deleting destructor' + 0x6e363'
+# 5    0x0076654e: 'WlfContextItem::`vector deleting destructor' + 0x6b2ae'
+# 6    0x0076419b: 'WlfContextItem::`vector deleting destructor' + 0x68efb'
+# 7    0x0067cb2e: 'WinMain + 0x12379e'
+# 8    0x004f72f9: 'EnumDispProc + 0x1779'
+# 9    0x6ccb1fae: 'TclInvokeStringCommand + 0xbe'
+# 10   0x6ccb39f1: 'TclNREvalObjv + 0x3e1'
+# 11   0x6ccb3a49: 'TclNRRunCallbacks + 0x49'
+# 12   0x6ccb563c: 'Tcl_EvalObjEx + 0x2c'
+# 13   0x6c0e0400: 'Itcl_EvalMemberCode + 0x300'
+# 14   0x0264ea7c: '<unknown (@0x264ea7c)>'
+# 15   0x6ccb39f1: 'TclNREvalObjv + 0x3e1'
+StackWalk failed 299
+# End of Stack Trace
+
+# Current time Thu Oct 09 10:20:53 2025
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vish
+# Id = "2020.1"
+# Version = "2020.02"
+# Date = "Feb 28 2020"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 007827b4. Traceback:
+# 0    0x007827b4: 'win_tb_CoreExceptionFilter + 0x15194'
+# 1    0x0076444a: 'WlfContextItem::`vector deleting destructor' + 0x691aa'
+# 2    0x0076784c: 'WlfContextItem::`vector deleting destructor' + 0x6c5ac'
+# 3    0x007682ee: 'WlfContextItem::`vector deleting destructor' + 0x6d04e'
+# 4    0x007665b5: 'WlfContextItem::`vector deleting destructor' + 0x6b315'
+# 5    0x007646be: 'WlfContextItem::`vector deleting destructor' + 0x6941e'
+# 6    0x0067cd1d: 'WinMain + 0x12398d'
+# 7    0x004f72f9: 'EnumDispProc + 0x1779'
+# 8    0x65de1fae: 'TclInvokeStringCommand + 0xbe'
+# 9    0x65de39f1: 'TclNREvalObjv + 0x3e1'
+# 10   0x65de3a49: 'TclNRRunCallbacks + 0x49'
+# 11   0x65de563c: 'Tcl_EvalObjEx + 0x2c'
+# 12   0x653b0400: 'Itcl_EvalMemberCode + 0x300'
+# 13   0x0e6f8870: '<unknown (@0xe6f8870)>'
+# 14   0xcccccccc: '<unknown (@0xcccccccc)>'
+# 15   0x0264eefc: '<unknown (@0x264eefc)>'
+# 16   0x0264e794: '<unknown (@0x264e794)>'
+# 17   0x65de39f1: 'TclNREvalObjv + 0x3e1'
+# 18   0x65de3a49: 'TclNRRunCallbacks + 0x49'
+# 19   0x65de4ef9: 'Tcl_EvalEx + 0x8b9'
+# 20   0x65de465a: 'Tcl_EvalEx + 0x1a'
+# 21   0x65cb1dd9: 'TkBindEventProc + 0x1b9'
+# 22   0x65cbec67: 'Tk_HandleEvent + 0x247'
+# 23   0x65cbde5c: 'TkDeleteThreadExitHandler + 0x24c'
+# 24   0x65e7acb5: 'Tcl_ServiceEvent + 0xc5'
+# 25   0x65e7b072: 'Tcl_DoOneEvent + 0x162'
+StackWalk failed 0
+# End of Stack Trace
+
+# Current time Thu Oct 09 10:37:28 2025
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vish
+# Id = "2020.1"
+# Version = "2020.02"
+# Date = "Feb 28 2020"
+# Platform = win32pe
+
+Exception c0000005 has occurred at address 00767843. Traceback:
+# 0    0x00767843: 'WlfContextItem::`vector deleting destructor' + 0x6c5a3'
+# 1    0x007682ee: 'WlfContextItem::`vector deleting destructor' + 0x6d04e'
+# 2    0x007665b5: 'WlfContextItem::`vector deleting destructor' + 0x6b315'
+# 3    0x007646be: 'WlfContextItem::`vector deleting destructor' + 0x6941e'
+# 4    0x0067cd1d: 'WinMain + 0x12398d'
+# 5    0x004f72f9: 'EnumDispProc + 0x1779'
+# 6    0x65cf1fae: 'TclInvokeStringCommand + 0xbe'
+# 7    0x65cf39f1: 'TclNREvalObjv + 0x3e1'
+# 8    0x65cf3a49: 'TclNRRunCallbacks + 0x49'
+# 9    0x65cf563c: 'Tcl_EvalObjEx + 0x2c'
+# 10   0x653b0400: 'Itcl_EvalMemberCode + 0x300'
+# 11   0x153ad288: '<unknown (@0x153ad288)>'
+# 12   0xcccccccc: '<unknown (@0xcccccccc)>'
+# 13   0x0264eaf4: '<unknown (@0x264eaf4)>'
+# 14   0x0264e38c: '<unknown (@0x264e38c)>'
+# 15   0x65cf39f1: 'TclNREvalObjv + 0x3e1'
+# 16   0x65cf3a49: 'TclNRRunCallbacks + 0x49'
+# 17   0x65cf4ef9: 'Tcl_EvalEx + 0x8b9'
+# 18   0x65cf465a: 'Tcl_EvalEx + 0x1a'
+# 19   0x65bc1dd9: 'TkBindEventProc + 0x1b9'
+# 20   0x65bcec67: 'Tk_HandleEvent + 0x247'
+# 21   0x64fafb41: '<unknown (@0x64fafb41)>'
+# 22   0x64fa5dcc: '<unknown (@0x64fa5dcc)>'
+# 23   0x64fb1356: '<unknown (@0x64fb1356)>'
+# 24   0x64fb4f4b: '<unknown (@0x64fb4f4b)>'
+# 25   0x65cf39f1: 'TclNREvalObjv + 0x3e1'
+# 26   0x65cf3a49: 'TclNRRunCallbacks + 0x49'
+# 27   0x65cf4ef9: 'Tcl_EvalEx + 0x8b9'
+# 28   0x65cf465a: 'Tcl_EvalEx + 0x1a'
+# 29   0x65bc1dd9: 'TkBindEventProc + 0x1b9'
+# 30   0x65bcec67: 'Tk_HandleEvent + 0x247'
+# 31   0x65bcde5c: 'TkDeleteThreadExitHandler + 0x24c'
+# 32   0x65d8acb5: 'Tcl_ServiceEvent + 0xc5'
+# 33   0x65d8afc8: 'Tcl_DoOneEvent + 0xb8'
+StackWalk failed 0
+# End of Stack Trace
+
